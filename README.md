@@ -11,7 +11,7 @@ This project focuses on building a computer vision model for detecting American 
 
 ### How to use this Model:
 
-Just Run #live-asl-detection.py
+Just Run `live-asl-detection.py`
 
 
 ### Future Enhancements
